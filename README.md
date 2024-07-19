@@ -8,7 +8,7 @@ Tested in Kali 2022-Newest, Windows 10 Home and Pro, Ubuntu 18.0.04 - 22 + new.
 
 Step-by-Step Guide and extremely important.
 
-*****###### These keys are unique per generation. If it gets lost I cannot help you quickly. Feel free to approach me about safe storage of keys. If you can't decrypt yourself don't worry we can help it just takes a bit of time to reverse engineer the encryption and an on-site visit. You don't have to use us other Cryptographers will be able to do this just again they'll have to be on site. #####*****
+*****###### These keys are unique per generation. If it gets lost I cannot help you quickly. Recommendation go to my repository ransomeware_defence and get yourself a keycatcher and configure it to the CISOs phone that way when one is generated it catches a copy for you. Feel free to approach me about safe storage of keys. If you can't decrypt yourself don't worry we can help it just takes a bit of time to reverse engineer the encryption and an on-site visit. You don't have to use us other Cryptographers will be able to do this just again they'll have to be on site. #####*****
 
 Step 1: Generate a Key File
 1. Open the Key Generator Application:
