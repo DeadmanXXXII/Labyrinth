@@ -139,6 +139,10 @@ sh
 
 By ensuring you have the correct versions of Python and the necessary libraries installed, you should be able to run the applications smoothly on any of the listed operating systems and IDEs.
 
+# Ice Labyrinth 
+This is a functional version of my automated encryption and decryption with snowflake memory backup for all encrypted files,
+so that if someone double encrypts them, during the initial encryption a copy of the files and directories are added to the snowflake memory bank.
+
 If you have any emergency issues call me please remember I live in the UK, so if you phone from half the world away depending on direction your 1pm may be my 3am.
 Blu Corbel +447576285686 
 I can attempt to decrypt you remotely or try walk you through it as these keys are unique per generation.
