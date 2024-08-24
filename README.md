@@ -146,5 +146,6 @@ so that if someone double encrypts them, during the initial encryption a copy of
 If you have any emergency issues call me please remember I live in the UK, so if you phone from half the world away depending on direction your 1pm may be my 3am.
 Blu Corbel +447576285686 
 I can attempt to decrypt you remotely or try walk you through it as these keys are unique per generation.
-my links are on my profile page
+
+My links are on my profile page
 email address: themadhattersplayground@gmail.com
